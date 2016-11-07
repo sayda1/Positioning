@@ -9,10 +9,8 @@ div{
     position: relative;
    
 }
-.dos{
-  float:right;
-margin: 0px  40px;
-}
+
+
 
 div:nth-child(1){background:#ee3e64}
 div:nth-child(2){background:#44accf}
